@@ -1,2 +1,4 @@
-# Database_Management
-A very common login system created with kivy GUI
+# Requirements
+Python 3.5+
+
+kivy
